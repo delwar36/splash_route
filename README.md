@@ -5,7 +5,7 @@ It is a simple route with fancy animation.
 <br><br>
 
 # Demo
-<img src="" width="250" height="460"/>
+<img src="https://raw.githubusercontent.com/delwar36/splash_route/master/example/splashRoute.gif" width="250" height="460"/>
 
 
 # Installation
