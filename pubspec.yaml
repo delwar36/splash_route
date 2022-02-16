@@ -1,5 +1,5 @@
 name: splash_route
-description: A new Flutter package project.
+description: It is just a route with fancy animation. It is used to show the splash animation while navigating to another page.
 version: 0.0.2
 homepage: https://github.com/delwar36/splash_route
 

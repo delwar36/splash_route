@@ -1,6 +1,6 @@
 # Splash Route
 
-It is just a route with fancy animation. It is used to show the splash animation while navigate to another page.
+It is just a route with fancy animation. It is used to show the splash animation while navigating to another page.
 
 <br><br>
 
