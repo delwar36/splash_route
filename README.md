@@ -5,7 +5,7 @@ It is just a route with fancy animation. It is used to show the splash animation
 <br><br>
 
 # Demo
-<img src="" width="250" height="460"/>
+<img src="https://raw.githubusercontent.com/delwar36/splash_route/master/example/splashRoute.gif" width="250" height="480"/>
 
 
 # Installation
