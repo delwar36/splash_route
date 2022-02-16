@@ -1,6 +1,6 @@
 # Splash Route
 
-It is a simple route with fancy animation. 
+It is just a route with fancy animation. It is used to show the splash animation while navigate to another page.
 
 <br><br>
 
@@ -10,7 +10,7 @@ It is a simple route with fancy animation.
 
 # Installation
 
-Add `splash_route: ^1.0.0` to your `pubspec.yaml` dependecies. And import it:
+Add `splash_route: ^0.0.2` to your `pubspec.yaml` dependecies. And import it:
 
 ```
 import 'package:splash_route/splash_route.dart';
